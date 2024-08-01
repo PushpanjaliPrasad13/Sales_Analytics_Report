@@ -3,7 +3,7 @@
 
 Project objective:
 
-1. Create a customer performance report 
+1. Create a customer performance report : https://github.com/PushpanjaliPrasad13/Sales_Analytics_Report/blob/main/Customer%20Performance%20Report.pdf
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
