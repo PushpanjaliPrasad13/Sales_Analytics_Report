@@ -21,7 +21,7 @@
   
    **2.** Create Profit and Loss (P&L) reports by _[Month](https://github.com/PushpanjaliPrasad13/Sales_Analytics_Report/blob/main/P%26L%20Statement%20by%20Months.pdf)
   
-   **3.** Create Profit and Loss (P&L) reports by _[Markets(https://github.com/PushpanjaliPrasad13/Sales_Analytics_Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+   **3.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/PushpanjaliPrasad13/Sales_Analytics_Report/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
